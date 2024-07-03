@@ -1,0 +1,16 @@
+easydict
+einops==0.4.1
+numpy
+opencv-python
+Pillow
+pycryptodome
+PyYAML
+scikit-image
+scikit-learn==0.24.2
+scipy==1.9.1
+tabulate==0.8.10
+timm==0.6.12
+torch==1.13.1+cu117
+torchvision==0.14.1+cu117
+tqdm
+wheel
