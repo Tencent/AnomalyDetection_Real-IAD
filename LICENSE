@@ -1,6 +1,6 @@
 Tencent is pleased to support the open source community by making Real-IAD available. 
 
-Copyright (C) 2024 THL A29 Limited, a Tencent company.  All rights reserved. The below software in this distribution may have been modified by THL A29 Limited ("Tencent Modifications"). All Tencent Modifications are Copyright (C) THL A29 Limited.
+Copyright (C) 2024 Tencent.  All rights reserved. The below software in this distribution may have been modified by Tencent ("Tencent Modifications"). All Tencent Modifications are Copyright (C) Tencent.
 
 Real-IAD is licensed under the Apache License Version 2.0 except for the third-party components listed below.
 
@@ -70,7 +70,7 @@ Other dependencies and licenses:
 
 
 Open Source Software Licensed under the Apache License Version 2.0 and Other Licenses of the Third-Party Components therein:
-The below software in this distribution may have been modified by THL A29 Limited ("Tencent Modifications"). All Tencent Modifications are Copyright (C) 2024 THL A29 Limited.
+The below software in this distribution may have been modified by Tencent ("Tencent Modifications"). All Tencent Modifications are Copyright (C) 2024 Tencent.
 --------------------------------------------------------------------
 1. UniAD
   Copyright 2022 SenseTime
