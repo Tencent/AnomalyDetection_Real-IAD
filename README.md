@@ -117,4 +117,4 @@ After training finished, ano-map of evaluation set is generated under `experimen
 This repo is built on the top of Offical Implementation of [UniAD](https://github.com/zhiyuanyou/UniAD.git), which use some codes from repositories including [detr](https://github.com/facebookresearch/detr) and [efficientnet](https://github.com/lukemelas/EfficientNet-PyTorch). 
 
 ## Notice
-The copyright notice pertaining to the Tencent code in this repo was previously in the name of "THL A29 Limited". That entity has now been de-registered. You should treat all previously distributed copies of the code as if the copyright notice was in the name of "Tencent".
+The copyright notice pertaining to the Tencent code in this repo was previously in the name of "THL A29 Limited." That entity has now been de-registered. You should treat all previously distributed copies of the code as if the copyright notice was in the name of "Tencent".
